@@ -26,7 +26,6 @@ nodemon app.js
 comandos para Editar nosso banco de dados
 =========================================
 
-
 //SELECT * FROM contas.users;
 este comando ira varrer todo o banco, na tabela contas.
 
