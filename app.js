@@ -21,9 +21,7 @@ const app = express()
     app.get("/",(req,res)=>{
         res.render('formulario')
     })
-    app.get("/home",(req,res)=>{
-        res.render('_navbar')
-    })
+    
     app.post("/add",(req,res)=>{
         Post.create({
         nome: req.body.nome,
