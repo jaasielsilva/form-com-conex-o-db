@@ -1,0 +1,38 @@
+body{
+    margin-top: 20px;
+    margin-left: 300px;
+    text-align: center;
+   
+}
+* {
+    margin: 0;
+    padding: 5px;
+    vertical-align: baseline;
+}
+
+form {
+    
+    width: 250px;
+    text-align: vertical;
+    color: white;
+    background-color: #92c8da;
+    padding: 20px;
+    border-radius: 50px;
+    
+}
+  
+input{
+    display:block;
+    text-align:left;
+    border-radius: 50px;
+  }
+button{
+    border-radius: 50px; 
+}
+  
+div{
+    text-align: left;
+}
+h3{
+    text-align: center;
+}
