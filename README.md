@@ -12,9 +12,9 @@ npm install --save mongodb
 
 //instalar o Mongoose  = mongoose traduz os dados do banco  de dados para objeto Javascript para que possa ser ultilizado por sua aplicação
 npm install --save mongoose
------------------------------------------------
+----------------------------
 COMO RODAR O PROJETO ABAIXO
------------------------------------------------
+----------------------------
 
 //instalar todas as dependencias indicada pelo package.json
 npm install 
